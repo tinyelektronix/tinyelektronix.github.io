@@ -1,1 +1,2 @@
+User-agent: *
 Sitemap: https://tinyelektronix.github.io/sitemap.xml
